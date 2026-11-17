@@ -28,7 +28,7 @@ cd speed-test
 Run the script with a URL as an argument:
 
 ```bash
-python main.py https://loremfile.dev/jpg/10mb.jpg
+python main.py https://samplefile.com/samples/download/image/png/png_sample_file_10MB.png
 ```
 
 ## Units of Measurement
